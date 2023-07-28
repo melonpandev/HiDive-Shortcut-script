@@ -2,6 +2,9 @@
 Shortcut for next episodes
 
 
-Install tampermonkey 
+Install [tampermonkey](https://www.tampermonkey.net/) 
 
-install script
+install [script](https://github.com/melonpandev/HiDive-Shortcut-script/raw/master/main.js)
+
+
+Enjoy :)
